@@ -1,0 +1,104 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath,tabstackengine}
+\usepackage{graphicx}
+\usepackage{amsthm}
+\usepackage{tikz}
+\usepackage{array} 
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{mathabx}
+\usepackage{apacite}
+\usepackage{cancel}
+\usepackage{float}
+\usepackage{csquotes}
+\usepackage{tasks}
+\usetikzlibrary{arrows.meta,decorations.pathreplacing}
+\usepackage{enumitem}
+\usepackage{alphalph}
+\usepackage{cases}
+\newcommand*\zz{\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz}
+\newcommand*\zzz{\item foo\item bar\item baz}
+\newcommand{\diff}{\mathrm{d}}
+\usetikzlibrary{arrows.meta,arrows}
+\renewcommand{\baselinestretch}{1.75}
+\usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry}
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\csch}{csch}
+\DeclareMathOperator{\arcsec}{arcsec}
+\newtheorem{theorem}{Teorema}
+\author{César Daniel Reinoso Reinoso Reinoso}
+\begin{document}
+\begin{titlepage}
+    \thispagestyle{empty}
+    \begin{minipage}[c][0.17\textheight][c]{0.25\textwidth}
+        \begin{center}
+            \includegraphics[width=3.5cm, height=3.5cm]{images.jpg}
+        \end{center}
+    \end{minipage}
+    \begin{minipage}[c][0.195\textheight][t]{0.75\textwidth}
+        \begin{center}
+            \vspace{0.3cm}
+            \textsc{\large ESCUELA SUPERIOR POLITÉCNICA DE CHIMBORAZO}\\[0.5cm]
+            \vspace{0.3cm}
+            \hrule height2.5pt
+            \vspace{.2cm}
+            \hrule height1pt
+            \vspace{.8cm}
+            \textsc{FACULTAD DE CIENCIAS\\
+                CARRERA DE MATEMÁTICAS }\\[0.5cm] %
+        \end{center}
+    \end{minipage}
+
+    \begin{minipage}[c][0.81\textheight][t]{0.25\textwidth}
+        \vspace*{5mm}
+        \begin{center}
+            \hskip2.0mm
+            \vrule width1pt height13cm
+            \vspace{5mm}
+            \hskip2pt
+            \vrule width2.5pt height13cm
+            \hskip2mm
+            \vrule width1pt height13cm \\
+            \vspace{5mm}
+            \includegraphics[height=4.0cm]{logo-blanco (1).png}
+        \end{center}
+    \end{minipage}
+    \begin{minipage}[c][0.81\textheight][t]{0.75\textwidth}
+        \begin{center}
+            \vspace{1cm}
+
+            {\large\scshape Cuadricas}\\[.2in]
+            \vspace{2cm}
+            \textsc{\large Investigacion Formativa}\\[0.5cm]
+            \textsc{\large Presenta:}\\[0.5cm]
+            \textsc{\large {Daniel Alejandro Reinoso Salas \\
+                    César Daniel Reinoso Reinoso\\
+                    Fernando Gualpa Villasis}}\\[2cm]
+
+            \vspace{0.5cm}
+
+             {\large\scshape Tutor:\\[0.3cm] {Dra.   Zoraida Sivoli Barrios }}\\[.2in]
+
+            \vspace{0.5cm}
+
+            \large{Ecuador-Riobamba }{2022}
+        \end{center}
+    \end{minipage}
+\end{titlepage}
+\tableofcontents
+\listoffigures
+\newpage
+\input{Introduccion}
+\newpage
+\include{Desarollo.tex}
+\newpage
+\bibliographystyle{apacite}
+\bibliography{research3.bib}
+\end{document}
