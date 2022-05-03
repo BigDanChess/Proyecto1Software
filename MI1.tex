@@ -1,39 +1,56 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt,a4paper,oneside]{book}
+
+\usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry}
+
+% fonts packages 
+
 \usepackage{float}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
 \usepackage[spanish,es-noshorthands]{babel}
-\usepackage{amssymb}
-\usepackage{amsmath,tabstackengine}
+
+%Mathematical packages
+
+\usepackage{amsfonts,amsmath,bussproofs,tabstackengine,amsthm}
+
+% Graphical packages
+
 \usepackage{graphicx}
-\usepackage{amsthm}
 \usepackage{tikz}
 \usepackage{array} 
 \usepackage{subcaption}
 \usepackage{enumitem}
-\usepackage{mathabx}
-\usepackage{apacite}
 \usepackage{cancel}
-\usepackage{float}
+
+% Index and bibliography packages
+
 \usepackage{csquotes}
-\usepackage{tasks}
-\usetikzlibrary{arrows.meta,decorations.pathreplacing}
-\usepackage{enumitem}
-\usepackage{alphalph}
-\usepackage{cases}
-\newcommand*\zz{\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz\zzz}
-\newcommand*\zzz{\item foo\item bar\item baz}
+\usepackage[hidelinks]{hyperref}
+\usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{amsmath, amssymb, graphics, setspace}
+
+
+% Personal configurations
+
+\addbibresource{research3.bib}
 \newcommand{\diff}{\mathrm{d}}
 \usetikzlibrary{arrows.meta,arrows}
-\renewcommand{\baselinestretch}{1.75}
-\usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry}
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+\renewcommand{\baselinestretch}{2}
+\renewcommand{\qedsymbol}{$\blacksquare$}
 \DeclareMathOperator{\sech}{sech}
 \DeclareMathOperator{\csch}{csch}
 \DeclareMathOperator{\arcsec}{arcsec}
 \newtheorem{theorem}{Teorema}
-\author{César Daniel Reinoso Reinoso Reinoso}
+\newtheorem{lemma}{Lema}
+\newtheorem{proposition}{Proposición}
+\newtheorem{corollary}{Corolario}
+\newtheorem{definition}{Definición}
+
+% Article information 
+
+\author{Daniel Alejandro Reinoso Salas\\ César Daniel Reinoso Reinoso}
 \begin{document}
 \begin{titlepage}
     \thispagestyle{empty}
@@ -96,9 +113,8 @@
 \listoffigures
 \newpage
 \input{Introduccion}
-\newpage
-\include{Desarollo.tex}
-\newpage
-\bibliographystyle{apacite}
-\bibliography{research3.bib}
+\input{Cuadricas}
+\input{DosVariables}
+\printbibliography[heading=bibintoc,
+title={Bibliografía}]
 \end{document}

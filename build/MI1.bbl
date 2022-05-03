@@ -1,104 +1,88 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem [\protect \citeauthoryear {%
-Bauer-Mengelberg%
-}{%
-Bauer-Mengelberg%
-}{%
-{\protect \APACyear {1965}}%
-}]{%
-bauer}
-\APACinsertmetastar {%
-bauer}%
-\begin{APACrefauthors}%
-Bauer-Mengelberg, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1965}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Kurt Gödel. On formally undecidable propositions of
-  Principia mathematica and related systems} {Kurt gödel. on formally
-  undecidable propositions of principia mathematica and related
-  systems}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Symbolic Logic}{30}{3}{359–362}.
-\newblock
-\begin{APACrefDOI} \doi{10.2307/2269629} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
 
-\bibitem [\protect \citeauthoryear {%
-Euclides%
-}{%
-Euclides%
-}{%
-{\protect \APACyear {1576}}%
-}]{%
-euclidesSeisLibrosPrimeros1576}
-\APACinsertmetastar {%
-euclidesSeisLibrosPrimeros1576}%
-\begin{APACrefauthors}%
-Euclides.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1576}.
-\newblock
-\APACrefbtitle {{Los Seis libros primeros dela geometria de Euclides}} {{Los
-  Seis libros primeros dela geometria de Euclides}}.
-\newblock
-\APACaddressPublisher{}{{en casa de Alonso de la Barrera}}.
-\PrintBackRefs{\CurrentBib}
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{solis2016graficas}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c53d1f19f8b67f13316f8fff5595fb7e}{%
+           family={Solís},
+           familyi={S\bibinitperiod},
+           given={Ángel},
+           giveni={Á\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Federación Española de Sociedades de Profesores de Matemáticas}%
+      }
+      \strng{namehash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \strng{fullhash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \strng{bibnamehash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \strng{authorbibnamehash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \strng{authornamehash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \strng{authorfullhash}{c53d1f19f8b67f13316f8fff5595fb7e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Digital Matemática}
+      \field{number}{1}
+      \field{title}{Gráficas de superficies cuádricas y trazas empleando GeoGebra}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+    \endentry
+    \entry{strang}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93733dfde0c47db226efad798ab3b662}{%
+           family={Strang},
+           familyi={S\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{fullhash}{93733dfde0c47db226efad798ab3b662}
+      \strng{bibnamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authorbibnamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authornamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authorfullhash}{93733dfde0c47db226efad798ab3b662}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Open Textbook Library}
+      \field{title}{Calculus volume 3}
+      \verb{urlraw}
+      \verb https://open.umn.edu/opentextbooks/textbooks/371
+      \endverb
+      \verb{url}
+      \verb https://open.umn.edu/opentextbooks/textbooks/371
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem [\protect \citeauthoryear {%
-Parra%
-}{%
-Parra%
-}{%
-{\protect \APACyear {2009}}%
-}]{%
-parra}
-\APACinsertmetastar {%
-parra}%
-\begin{APACrefauthors}%
-Parra, E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Arquímedes: su vida, obras y aportes a la matemática
-  modernaEdward} {Arquímedes: su vida, obras y aportes a la matemática
-  modernaedward}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Revista digital Matemática, Educación e
-  Internet}{1}{Vol 9}{1–40}.
-\newblock
-\begin{APACrefURL} \url{www.cidse.itcr.ac.cr/revistamate/} \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Sol{\'\i}s%
-}{%
-Sol{\'\i}s%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-solis2016graficas}
-\APACinsertmetastar {%
-solis2016graficas}%
-\begin{APACrefauthors}%
-Sol{\'\i}s, {\'A}.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Gr{\'a}ficas de superficies cu{\'a}dricas y trazas
-  empleando GeoGebra} {Gr{\'a}ficas de superficies cu{\'a}dricas y trazas
-  empleando geogebra}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Revista Digital Matem{\'a}tica}{16}{1}{1--34}.
-\PrintBackRefs{\CurrentBib}
-
-\end{thebibliography}
