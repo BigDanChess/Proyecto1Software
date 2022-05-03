@@ -1,0 +1,104 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bauer-Mengelberg%
+}{%
+Bauer-Mengelberg%
+}{%
+{\protect \APACyear {1965}}%
+}]{%
+bauer}
+\APACinsertmetastar {%
+bauer}%
+\begin{APACrefauthors}%
+Bauer-Mengelberg, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1965}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Kurt Gödel. On formally undecidable propositions of
+  Principia mathematica and related systems} {Kurt gödel. on formally
+  undecidable propositions of principia mathematica and related
+  systems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Symbolic Logic}{30}{3}{359–362}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2269629} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Euclides%
+}{%
+Euclides%
+}{%
+{\protect \APACyear {1576}}%
+}]{%
+euclidesSeisLibrosPrimeros1576}
+\APACinsertmetastar {%
+euclidesSeisLibrosPrimeros1576}%
+\begin{APACrefauthors}%
+Euclides.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1576}.
+\newblock
+\APACrefbtitle {{Los Seis libros primeros dela geometria de Euclides}} {{Los
+  Seis libros primeros dela geometria de Euclides}}.
+\newblock
+\APACaddressPublisher{}{{en casa de Alonso de la Barrera}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Parra%
+}{%
+Parra%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+parra}
+\APACinsertmetastar {%
+parra}%
+\begin{APACrefauthors}%
+Parra, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Arquímedes: su vida, obras y aportes a la matemática
+  modernaEdward} {Arquímedes: su vida, obras y aportes a la matemática
+  modernaedward}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista digital Matemática, Educación e
+  Internet}{1}{Vol 9}{1–40}.
+\newblock
+\begin{APACrefURL} \url{www.cidse.itcr.ac.cr/revistamate/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sol{\'\i}s%
+}{%
+Sol{\'\i}s%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+solis2016graficas}
+\APACinsertmetastar {%
+solis2016graficas}%
+\begin{APACrefauthors}%
+Sol{\'\i}s, {\'A}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gr{\'a}ficas de superficies cu{\'a}dricas y trazas
+  empleando GeoGebra} {Gr{\'a}ficas de superficies cu{\'a}dricas y trazas
+  empleando geogebra}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista Digital Matem{\'a}tica}{16}{1}{1--34}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
