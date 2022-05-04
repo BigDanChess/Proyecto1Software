@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber build/MI1"] 1651599354 "build/MI1.bcf" "build/MI1.bbl" "build/MI1" 1651599646
-  "build/MI1.bcf" 1651599646 124164 a68d106f5094716b94cc3ecd4c9c0fa8 "pdflatex"
-  "research3.bib" 1651598665 2192 451b06d29d9d11e5275370db89425b88 ""
+["biber build/MI1"] 1651679885 "build/MI1.bcf" "build/MI1.bbl" "build/MI1" 1651680322
+  "build/MI1.bcf" 1651680322 124264 a4ab589ea3729204722dd8eb3bb60f9e "pdflatex"
+  "research3.bib" 1651679885 2831 600c6be808adc853771ddd27017775cc ""
   (generated)
   "build/MI1.bbl"
   "build/MI1.blg"
-["pdflatex"] 1651599644 "/home/BigDanMath/Documentos/Espoch/Latex/Semestre5/SoftwareMatematico/Proyecto1Software/MI1.tex" "build/MI1.pdf" "MI1" 1651599646
+["pdflatex"] 1651680320 "/home/BigDanMath/Documentos/Espoch/Latex/Semestre5/SoftwareMatematico/Proyecto1Software/MI1.tex" "build/MI1.pdf" "MI1" 1651680322
   "/home/BigDanMath/.texlive2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1642897488 2738510 8ddd8ee299acfc113f2c29cde23bcab8 ""
   "/home/BigDanMath/Documentos/Espoch/Latex/Semestre5/SoftwareMatematico/Proyecto1Software/MI1.tex" 1651599636 3358 08edd5d4d8cfe4cc84993ba6c6dbdfc5 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -232,15 +232,15 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1642002331 40136 b05acc85e8425979e52682d98a2bcacf ""
   "/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1650511232 5198541 b2cb728e8487ba06499df60643f1b475 ""
   "Cuadricas.tex" 1651598868 3749 db60d8e3171018468b43b4c151adf3d3 ""
-  "DosVariables.tex" 1651599237 7558 e9d2d20b8ecef0ffbe47b01d62f6acde ""
-  "Introduccion.tex" 1651598063 23 180a4298bf1406758ce4f433f56077ff ""
+  "DosVariables.tex" 1651680317 7575 5f81ab1abb4090055555593cfd2431b4 ""
+  "Introduccion.tex" 1651679846 1524 8e2894304e7fc9dc805156971c5a5939 ""
   "MI1.tex" 1651599636 3358 08edd5d4d8cfe4cc84993ba6c6dbdfc5 ""
-  "build/MI1.aux" 1651599646 6741 3bbf0b10179ad4823b311679a08cf9ca "pdflatex"
-  "build/MI1.bbl" 1651599356 3085 dbb002e53956cd63eacbd5a7c60a4323 "biber build/MI1"
-  "build/MI1.lof" 1651599646 1268 ebd91be560993e66e367b980aaf5a9c5 "pdflatex"
-  "build/MI1.out" 1651599646 2502 f43a5d02bd8f4be6e3529dc2c75bddbc "pdflatex"
-  "build/MI1.run.xml" 1651599646 2351 6a839f0a3a0902515cfcf2e76a4ab01e "pdflatex"
-  "build/MI1.toc" 1651599646 2127 6699df4c37da82dc843436dc1a88249e "pdflatex"
+  "build/MI1.aux" 1651680322 7216 1dc294ca61b129e573b78ca2f3a2fa2e "pdflatex"
+  "build/MI1.bbl" 1651679887 6193 9fc214ad7d08451deae14b812f0ce5f9 "biber build/MI1"
+  "build/MI1.lof" 1651680322 1269 eec912a1cd09b71acd309d04439bb3d8 "pdflatex"
+  "build/MI1.out" 1651680322 2567 e3a0772484eaea0f198cf2bb70f0009e "pdflatex"
+  "build/MI1.run.xml" 1651680322 2351 6a839f0a3a0902515cfcf2e76a4ab01e "pdflatex"
+  "build/MI1.toc" 1651680322 2219 bd80dba74e9a73843d602c3efe15a717 "pdflatex"
   "imagenes/Captura.jpg" 1651598787 17256 33578a9d81de026eceda8b88e4035e45 ""
   "imagenes/Captura2.jpg" 1651598844 14950 bf5df8bf0a4d2b0ebf88775c711a1b73 ""
   "imagenes/Imagen3.png" 1651599092 73602 f223a5b56867b99c006ce5e373814df8 ""

@@ -2,10 +2,11 @@
 En estudios anteriores, hemos revisado funciones de una variable $f: \mathbb{R} \rightarrow \mathbb{R}$,
 en esta sección revisaremos funciones de dos variables es decir, $f: \mathbb{R}^{2} \rightarrow \mathbb{R}$,
 las funciones dos variables permiten el estudio de la densidad de la tierra, la presión de un globo, ciertos modelos matemáticos están descritos por funciones de dos variables.\par
-\subsection{Definición}
+\section{Definición}
 Recuperado de \cite{strang}.\par
-\textbf{Definición:} Una función de dos variables $z=f(x, y)$ mapea cada par ordenado $(x, y)$ en un subconjunto $D$ del plano real $\mathbb{R}^{2}$ a un único número real $z$. El conjunto $D$ se llama dominio de la función. El rango de $f$ es el conjunto de todos los números reales $z$ que tiene al menos un par ordenado $(x, y) \in D$ tal que $f(x, y)=z$ como se muestra en la siguiente figura.\par
-\begin{figure}[htpb]
+Una función de dos variables $z=f(x, y)$ mapea cada par ordenado $(x, y)$ en un subconjunto $D$ del plano real $\mathbb{R}^{2}$ a un único número real $z$. El conjunto $D$ se llama dominio de la función. El rango de $f$ es el conjunto de todos los números reales $z$ que tiene al menos un par ordenado $(x, y) \in D$ tal que $f(x, y)=z$ como se muestra en la siguiente figura.\par
+\begin{figure}[H]
+    \centering
     \includegraphics[width=9.5cm, height=5.5cm]{imagenes/NImagen1.png}
     \caption{El dominio de una función de dos variables consta de pares ordenados $(x, y)$.}
 \end{figure}
@@ -16,7 +17,8 @@ $$
     \operatorname{Graf}(f)=\{(x, y, f(x, y)) \mid(x, y) \in D\}
 $$
 Tal que su representación seria.\par
-\begin{figure}[htpb]
+\begin{figure}[H]
+    \centering
     \includegraphics[width=9.5cm, height=7.5cm]{imagenes/Imagen4.png}
     \caption{Función de dos variables.}
 \end{figure}
@@ -25,7 +27,7 @@ Tal que su representación seria.\par
 
 Representaciones geométricas de una tabla.\par
 Recuperado de \cite{strang}, Suponga que la función $f$ está representada por la siguiente tabla:\par
-\begin{table}[htpb]
+\begin{table}[H]
     \caption{Tabla de dos Entradas}
     \begin{tabular}{|c|c|c|c|c|}
         \hline                & $y=0$ & $y=1$ & $y=2$ & $y=3$ \\
@@ -40,20 +42,22 @@ Recuperado de \cite{strang}, Suponga que la función $f$ está representada por 
 
 Geométricamente, podemos ver la información contenida en la tabla colocando primero un punto para cada $(x, y)$ en la tabla en el plano $x y$ de nuestro 3 -espacio\par
 
-\begin{figure}[htpb]
+\begin{figure}[H]
+    \centering
     \includegraphics[width=7.5cm, height=7.5cm]{imagenes/NImagen2.png}
     \caption{Representación geométrica}
 \end{figure}
 \newpage
 Entonces podemos elevar cada punto a su valor $z$ apropiado (altura) en 3 dimensiones.\par
 
-\begin{figure}[htpb]
+\begin{figure}[H]
+    \centering
     \includegraphics[width=7.5cm, height=7.5cm]{imagenes/Imagen3.png}
     \caption{Con su altura $z$}
 \end{figure}
 
 \subsection{Limites y Continuidad}
-\textbf{Limite}\par
+\section{Limite}
 \textbf{Definición:} Sea $D$ un subconjunto de $\mathbb{R}^{n}$ y $f: D \rightarrow \mathbb{R}$, una función definida en $D$, y sea $a$ en un punto de acumulación de $D$. Decimos que el límite de una función $f$ cuando $x$ se acerca a $a$ es $L \in \mathbb{R}$, y lo escribiremos $\lim _{x \rightarrow a} f(x)=L$ si para cada $\epsilon>0$ hay un $\delta>0$ tal que $|f(x)-L|<\epsilon$ si $x \in D$ y $0<d(x, a)<\delta$.\par
 Ademas se puede considerar las siguientes propiedades:\par
 \begin{enumerate}

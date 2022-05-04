@@ -19,6 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{flores_1970}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71533dc09e0eb622ae621eb29bfa699a}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Walter\bibnamedelima Mora},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Tecnológico de Costa Rica}%
+      }
+      \strng{namehash}{71533dc09e0eb622ae621eb29bfa699a}
+      \strng{fullhash}{71533dc09e0eb622ae621eb29bfa699a}
+      \strng{bibnamehash}{71533dc09e0eb622ae621eb29bfa699a}
+      \strng{authorbibnamehash}{71533dc09e0eb622ae621eb29bfa699a}
+      \strng{authornamehash}{71533dc09e0eb622ae621eb29bfa699a}
+      \strng{authorfullhash}{71533dc09e0eb622ae621eb29bfa699a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet Archive}
+      \field{month}{1}
+      \field{title}{Cálculo en varias variables}
+      \field{year}{1970}
+      \verb{urlraw}
+      \verb https://archive.org/details/2012CalculoEnVariasVariables
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/2012CalculoEnVariasVariables
+      \endverb
+    \endentry
     \entry{solis2016graficas}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c53d1f19f8b67f13316f8fff5595fb7e}{%
@@ -81,6 +117,46 @@
       \verb{url}
       \verb https://open.umn.edu/opentextbooks/textbooks/371
       \endverb
+    \endentry
+    \entry{zill1}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ce0689f2d52c5a0939d5509701e4f498}{%
+           family={Zill},
+           familyi={Z\bibinitperiod},
+           given={Dennis\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5d7cb2383d57d85b690656148b0e617}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Warren\bibnamedelima S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d6d6429fa4807af6fc2ab5bd3b5a2b5}{%
+           family={Gabriel},
+           familyi={G\bibinitperiod},
+           given={Cázares\bibnamedelima Nagore},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MCGRAW-HILL INTERAMERICANA}%
+      }
+      \strng{namehash}{54f7c40116860dd5d08ef319cb126aa6}
+      \strng{fullhash}{dc6b1b0a7319b789b7912ecf0b6ce163}
+      \strng{bibnamehash}{dc6b1b0a7319b789b7912ecf0b6ce163}
+      \strng{authorbibnamehash}{dc6b1b0a7319b789b7912ecf0b6ce163}
+      \strng{authornamehash}{54f7c40116860dd5d08ef319cb126aa6}
+      \strng{authorfullhash}{dc6b1b0a7319b789b7912ecf0b6ce163}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cálculo de varias variables}
+      \field{year}{2011}
     \endentry
   \enddatalist
 \endrefsection

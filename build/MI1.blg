@@ -1,14 +1,18 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'build/MI1.blg'
-[82] biber:340> INFO - === mar may  3, 2022, 12:35:55
-[99] Biber.pm:415> INFO - Reading 'build/MI1.bcf'
-[183] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
-[199] Biber.pm:4340> INFO - Processing section 0
-[210] Biber.pm:4531> INFO - Looking for bibtex format file 'research3.bib' for section 0
-[211] bibtex.pm:1689> INFO - LaTeX decoding ...
-[221] bibtex.pm:1494> INFO - Found BibTeX data source 'research3.bib'
-[278] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[278] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[278] Biber.pm:4168> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[285] bbl.pm:654> INFO - Writing 'build/MI1.bbl' with encoding 'UTF-8'
-[287] bbl.pm:757> INFO - Output to build/MI1.bbl
+[1] Config.pm:314> INFO - Logfile is 'build/MI1.blg'
+[174] biber:340> INFO - === mié may  4, 2022, 10:58:06
+[227] Biber.pm:415> INFO - Reading 'build/MI1.bcf'
+[398] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[417] Biber.pm:4340> INFO - Processing section 0
+[429] Biber.pm:4531> INFO - Looking for bibtex format file 'research3.bib' for section 0
+[431] bibtex.pm:1689> INFO - LaTeX decoding ...
+[445] bibtex.pm:1494> INFO - Found BibTeX data source 'research3.bib'
+[446] Utils.pm:395> WARN - Duplicate entry key: 'strang' in file 'research3.bib', skipping ...
+[483] Utils.pm:395> WARN - legacy month field 'Jan' in entry 'flores_1970' is not an integer - this will probably not sort properly.
+[501] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_wFbz/2b4b6b13c4550049f6c4a8141ff91ac6_11417.utf8, line 9, warning: 1 characters of junk seen at toplevel
+[517] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[517] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[517] Biber.pm:4168> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[527] bbl.pm:654> INFO - Writing 'build/MI1.bbl' with encoding 'UTF-8'
+[530] bbl.pm:757> INFO - Output to build/MI1.bbl
+[530] Biber.pm:128> INFO - WARNINGS: 3

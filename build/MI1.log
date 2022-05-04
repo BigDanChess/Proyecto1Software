@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.22)  3 MAY 2022 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.22)  4 MAY 2022 11:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -981,7 +981,7 @@ Package biblatex Info: ... file 'MI1.bbl' found.
  (build/MI1.bbl)
 Package biblatex Info: Reference section=0 on input line 54.
 Package biblatex Info: Reference segment=0 on input line 54.
-<images.jpg, id=75, 225.84375pt x 224.84pt>
+<images.jpg, id=79, 225.84375pt x 224.84pt>
 File: images.jpg Graphic file (type jpg)
 <use images.jpg>
 Package pdftex.def Info: images.jpg  used on input line 59.
@@ -998,7 +998,7 @@ Overfull \hbox (20.2353pt too wide) in paragraph at lines 57--75
 []$[]$ $[]$ 
  []
 
-<logo-blanco (1).png, id=76, 256.5585pt x 416.9979pt>
+<logo-blanco (1).png, id=80, 256.5585pt x 416.9979pt>
 File: logo-blanco (1).png Graphic file (type png)
 <use logo-blanco (1).png>
 Package pdftex.def Info: logo-blanco (1).png  used on input line 87.
@@ -1039,7 +1039,7 @@ LaTeX Info: Redefining \% on input line 2.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 ... {chapter}{Bibliografía}{18}{chapter*.10}
+l.38 ... {chapter}{Bibliografía}{20}{chapter*.10}
                                                   % [1
 
 ])
@@ -1063,22 +1063,25 @@ Cap\'{\i }tulo 1.
 ) (./Cuadricas.tex [4
 
 ]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [5]
 Cap\'{\i }tulo 2.
-[5
+[6
 
 ]
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
- [6]
+ [7]
 LaTeX Info: Redefining \. on input line 90.
 LaTeX Info: Redefining \% on input line 90.
- [7]
-<imagenes/Captura.jpg, id=163, 227.34938pt x 284.56313pt>
+ [8]
+<imagenes/Captura.jpg, id=177, 227.34938pt x 284.56313pt>
 File: imagenes/Captura.jpg Graphic file (type jpg)
 <use imagenes/Captura.jpg>
 Package pdftex.def Info: imagenes/Captura.jpg  used on input line 106.
 (pdftex.def)             Requested size: 170.71652pt x 213.68233pt.
-<imagenes/Captura2.jpg, id=164, 175.40532pt x 244.66406pt>
+<imagenes/Captura2.jpg, id=178, 175.40532pt x 244.66406pt>
 File: imagenes/Captura2.jpg Graphic file (type jpg)
 <use imagenes/Captura2.jpg>
 Package pdftex.def Info: imagenes/Captura2.jpg  used on input line 112.
@@ -1086,59 +1089,63 @@ Package pdftex.def Info: imagenes/Captura2.jpg  used on input line 112.
 ) (./DosVariables.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [8 <./imagenes/Captura.jpg>]
+ [9 <./imagenes/Captura.jpg>]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [9 <./imagenes/Captura2.jpg>]
+ [10 <./imagenes/Captura2.jpg>]
 Cap\'{\i }tulo 3.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 5.
-
-<imagenes/NImagen1.png, id=175, 408.02437pt x 166.37157pt>
+<imagenes/NImagen1.png, id=188, 408.02437pt x 166.37157pt>
 File: imagenes/NImagen1.png Graphic file (type png)
 <use imagenes/NImagen1.png>
-Package pdftex.def Info: imagenes/NImagen1.png  used on input line 9.
+Package pdftex.def Info: imagenes/NImagen1.png  used on input line 10.
 (pdftex.def)             Requested size: 270.31174pt x 156.50098pt.
-[10
+[11
 
 ]
-<imagenes/Imagen4.png, id=181, 316.18124pt x 295.85532pt>
+<imagenes/Imagen4.png, id=194, 316.18124pt x 295.85532pt>
 File: imagenes/Imagen4.png Graphic file (type png)
 <use imagenes/Imagen4.png>
-Package pdftex.def Info: imagenes/Imagen4.png  used on input line 20.
+Package pdftex.def Info: imagenes/Imagen4.png  used on input line 22.
 (pdftex.def)             Requested size: 270.31847pt x 213.39938pt.
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
- [11 <./imagenes/NImagen1.png> <./imagenes/Imagen4.png>]
-<imagenes/NImagen2.png, id=189, 339.51843pt x 255.95625pt>
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [12 <./imagenes/NImagen1.png>]
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [13 <./imagenes/Imagen4.png>]
+<imagenes/NImagen2.png, id=207, 339.51843pt x 255.95625pt>
 File: imagenes/NImagen2.png Graphic file (type png)
 <use imagenes/NImagen2.png>
-Package pdftex.def Info: imagenes/NImagen2.png  used on input line 44.
+Package pdftex.def Info: imagenes/NImagen2.png  used on input line 47.
 (pdftex.def)             Requested size: 213.39522pt x 213.39658pt.
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
- [12 <./imagenes/NImagen2.png>]
-<imagenes/Imagen3.png, id=197, 351.56343pt x 289.83281pt>
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [14 <./imagenes/NImagen2.png>]
+<imagenes/Imagen3.png, id=214, 351.56343pt x 289.83281pt>
 File: imagenes/Imagen3.png Graphic file (type png)
 <use imagenes/Imagen3.png>
-Package pdftex.def Info: imagenes/Imagen3.png  used on input line 51.
+Package pdftex.def Info: imagenes/Imagen3.png  used on input line 55.
 (pdftex.def)             Requested size: 213.39122pt x 213.39824pt.
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
- [13 <./imagenes/Imagen3.png>]
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
- [14]
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
- [15]
-LaTeX Info: Redefining \. on input line 139.
-LaTeX Info: Redefining \% on input line 139.
- [16])
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [15 <./imagenes/Imagen3.png>]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [16]
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+ [17]
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
+ [18])
 LaTeX Info: Redefining \. on input line 118.
 LaTeX Info: Redefining \% on input line 118.
- [17] [18
+ [19]
+Overfull \hbox (92.75996pt too wide) in paragraph at lines 119--119
+[][]\T1/cmr/m/n/12 Flores, W. M. (1970). C�lcu-lo en va-rias va-ria-bles. []$https : / / archive . org / details / 2012CalculoEnVariasVariables$[] 
+ []
+
+[20
 
 ] (build/MI1.aux
 LaTeX Info: Redefining \sptext on input line 25.
@@ -1146,24 +1153,24 @@ LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `MI1.out' has not changed.
-(rerunfilecheck)             Checksum: F43A5D02BD8F4BE6E3529DC2C75BDDBC;2502.
+(rerunfilecheck)             Checksum: E3A0772484EAEA0F198CF2BB70F0009E;2567.
 Package logreq Info: Writing requests to 'MI1.run.xml'.
 \openout1 = `MI1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32859 strings out of 478855
- 605720 string characters out of 5858635
- 1389377 words of memory out of 6000000
- 49906 multiletter control sequences out of 15000+600000
+ 32879 strings out of 478855
+ 606056 string characters out of 5858635
+ 1389485 words of memory out of 6000000
+ 49921 multiletter control sequences out of 15000+600000
  418635 words of font info for 59 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 84i,10n,89p,824b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,10n,89p,1668b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-rep-cmrm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on build/MI1.pdf (19 pages, 619217 bytes).
+Output written on build/MI1.pdf (21 pages, 623566 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
- 189 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 340 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
